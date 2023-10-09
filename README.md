@@ -24,6 +24,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 Anchors assert the position of a string or the matching process. A Caret (^) helps us denote the beginning of a string or line and a Dollar ($) helps us denote the end.
 
 ## Quantifiers
+Quantifiers specify how many instances of a character, group, or character class must be present in the input for a match to be found. 
 ## OR Operator
 ## Character Classes
 ## Flags
