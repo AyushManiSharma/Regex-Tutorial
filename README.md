@@ -7,17 +7,16 @@ Summary
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 ## Table of Contents
 
-   * [Anchors](Anchors)
-   * [Quantifiers]()
-   * [OR Operator]()
-   * [Character Classes]()
-   * [Flags]()
-   * [Grouping and Capturing]()
-   * [Bracket Expressions]()
-   * [Greedy and Lazy Match]()
-   * [Boundaries]()
-   * [Back-references]()
-   * [Look-ahead and Look-behind]()
+   * [Anchors](#anchors)
+   * [Quantifiers](#quantifiers)
+   * [OR Operator](#OR-Operator)
+   * [Flags](#Flags)
+   * [Grouping and Capturing](#Grouping-and-Capturing)
+   * [Bracket Expressions](#Bracket-Expressions)
+   * [Greedy and Lazy Match](#Greedy-and-Lazy-Match)
+   * [Boundaries](#Boundaries)
+   * [Back-references](#Back-references)
+   * [Look-ahead and Look-behind](#Look-ahead-and-Look-behind)
 
 # Regex Components
 ## Anchors
